@@ -1,16 +1,15 @@
-<img src="https://github.com/ArrowOS/getting_started/blob/master/misc/logo.png?raw=true">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIWr4rXAYhnocOWjDcPri-NEpCN6trSnd02A&usqp=CAU">
 
-# ArrowOS
+# SmacKOS
+This is SmacKOS, building it for learning purpose.
 
  Getting Started
 ---------------
-To get started with the ArrowOS sources, you'll need to get
-familiar with [Git and Repo](https://source.android.com/setup/build/downloading).
 
 To initialize your local repository, use command:
 
 ```bash
-repo init -u https://github.com/ArrowOS/android_manifest.git -b arrow-13.0
+repo init -u https://github.com/Lurnare/Spare_OS/tree/SmacK.git -b arrow-13.0
 ```
 
 Then sync up:
@@ -44,19 +43,5 @@ OR
 ```bash
 m bacon
 ```
-
-**You can also refer to our detailed guides as listed below:**
-
-[How to compile ArrowOS from source](https://blog.arrowos.net/posts/compilation-guide)
-
-[How to submit patches to ArrowOS Gerrit](https://blog.arrowos.net/how-to-submit-patches-to-arrowos-gerrit)
-
-[Apply for Maintainership](https://blog.arrowos.net/posts/apply-for-maintainership) OR [Submit device for community builds](https://blog.arrowos.net/introducing-community-builds)
-
-To check thread template refer [**HERE**](https://raw.githubusercontent.com/ArrowOS/documentation/master/thread_template.txt)
-
----------------------------------------------------------------------------------------------------------------------
-
-[ArrowOS Website](https://www.arrowos.net/) | [ArrowOS Blog](https://blog.arrowos.net/)
 
 ---------------------------------------------------------------------------------------------------------------------
